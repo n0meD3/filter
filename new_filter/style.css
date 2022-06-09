@@ -1,0 +1,105 @@
+body {
+    background: grey }
+
+.button {
+    position: sticky;
+    left: 90%;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.buttong {
+    position: sticky;
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 5px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.buttong1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+
+.buttong1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+.buttred1 {
+    background-color: white;
+    color: black;
+    border: 2px solid #FF2D00;
+}
+
+.buttred1:hover {
+    background-color: #FF2D00;
+    color: white;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%; /* Ширина таблицы */
+    background: white; /* Цвет фона таблицы */
+    color: red; /* Цвет текста */
+    border-spacing: 1px; /* Расстояние между ячейками */
+}
+td, th {
+    background: #000000; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг текста */
+}
+
+h1 {
+    background: black;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+h5 {
+    background: black;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+
+.cool {
+    background: black;
+    color: white;
+    border-radius: 1em;
+    padding: 1em;
+}
+
+.warn {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
